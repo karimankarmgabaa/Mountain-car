@@ -8,3 +8,5 @@ We solve the Mountain car problem with GYM, The car starts in between two hills.
 - The car only has 3 possible actions at every state, it can either accelerate forwards, accelerate backwards, or do nothing. Every time the agent takes an action, the environment (the game) will return a new state (a position and velocity).
 <hr>
 <h2>Algorithms:</h3>
+- we used queue learning approximation algoritm
+- 
